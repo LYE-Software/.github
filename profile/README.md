@@ -11,7 +11,7 @@ https://nwvbug.com
 https://rypixel.net
 
 
-### Lye Software produces many web projects that allow students to study efficiently and quickly, for free. 
+## Lye Software produces many web projects that allow students to study efficiently and quickly, for free. 
 
 By students, for students: Lang (https://www.langstudy.tech) and AnkleWrite (https://rypixel.net/anklewrite/home.html) are top of their class education products, powered by the Lye Account system. 
 
