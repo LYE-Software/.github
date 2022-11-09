@@ -13,9 +13,7 @@ https://rypixel.net
 
 ## Lye Software produces many web projects that allow students to study efficiently and quickly, for free. 
 
-By students, for students: Lang (https://www.langstudy.tech) and AnkleWrite (https://rypixel.net/anklewrite/home.html) are top of their class education products, powered by the Lye Account system. 
-
-Learn more about these and other projects at https://lye.software
+By students, for students: Lang (https://www.langstudy.tech) is a top of its class education product, powered by the Lye Account system. 
 
 
 ## Lye Software aims to make the gaming experience better for all
@@ -28,7 +26,7 @@ NWVBUG Development produces web-based gaming experiences that anyone can enjoy w
 
 No more ecosystem lock-in: once a product is popular enough, it gains versions on nearly every platform.
 
-
+Learn more about these and other projects at https://lye.software
 
 
 
