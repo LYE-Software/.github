@@ -1,5 +1,4 @@
 # Welcome to Lye Software
-https://lye.software
 ## Lye Software is a Silicon Valley based software company
 
 
