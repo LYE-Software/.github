@@ -4,17 +4,9 @@
 <img src="https://github.com/nwvbug/nwvbug-logos/blob/main/lye%20logo/lyelogo.png?raw=true" height="200px" width="auto">
 
 
-### Our Brands
+### Notable Brands
 
-Lye Software's brands notably include NWVBUG Development and RyCorp. We work hard to make sure that no matter what brand supplies it, quality is always at the forefront of our products. 
-
-https://nwvbug.com
-https://rypixel.net
-
-
-## Lye Software produces many web projects that allow students to study efficiently and quickly, for free. 
-
-By students, for students: Lang (https://www.langstudy.tech) is a top of its class education product, powered by the Lye Account system. 
+Lye Software is known for creating Lang Study, best way to study verbs. Lang is not just for language classes, although it does excel in them. Lang allows you to make your own lists to study whatever language or topic you want. Review with flashcards, build memory with the writing mode, or take a practice test and be ready to get the A+. All of this and more, completely free and with no ads. Lang supports Quizlet Study Sets as well, giving it a huge library of pre-existing sets to pull from. Lang is extremely user customizable, from the user interface to the way the study algorithm is handled. Lang supports cloudsaving your studysheets, and as with all products produced by Lye Software companies it uses the proprietary and secure Lye Account system to do so. Lang Studysheets are saved in the proprietary .lang format to ensure that you can securely save your Studysheets to a local machine or upload them to the Lang Cloud to acces them wherever.
 
 
 ## Lye Software aims to make the gaming experience better for all
