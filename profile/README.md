@@ -1,6 +1,8 @@
 # Welcome to Lye Software
 ## Lye Software is a Silicon Valley based software company
 
+<img src="https://github.com/nwvbug/nwvbug-logos/blob/main/lye%20logo/lyelogo.png?raw=true" height="200px" width="auto">
+
 
 ### Our Brands
 
