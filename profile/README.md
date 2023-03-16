@@ -25,4 +25,4 @@ Learn more about these and other projects at https://lye.software
 <br>
 <br>
 
-*Copyright Lye Software, 2022. https://lye.software*
+*Copyright Lye Software, 2023. https://lye.software*
