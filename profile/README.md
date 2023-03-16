@@ -11,8 +11,7 @@ Lye Software is known for creating Lang Study, best way to study verbs. Lang is 
 
 ## Lye Software aims to make the gaming experience better for all
 
-RyCorp produces many high quality minecraft extensions and runs minecraft servers to enhance the gaming experience.
-NWVBUG Development produces web-based gaming experiences that anyone can enjoy with friends or family. 
+DejaVU MC provides custom and private Minecraft server gameplay for anyone, and with its newest acquisition, the LukeSMP joins Lye Software's array of products to offer another Minecraft experience. 
 
 
 ## Lye Software wants its products to be accessible to all.
