@@ -11,7 +11,7 @@ Lye Software is known for creating Lang Study, best way to study verbs. Lang is 
 
 ## Lye Software aims to make the gaming experience better for all
 
-DejaVU MC provides custom and private Minecraft server gameplay for anyone, and with its newest acquisition, the LukeSMP joins Lye Software's array of products to offer another Minecraft experience. 
+DejaVU MC provides custom and private Minecraft server gameplay for anyone, and with its newest partnership, the LukeSMP utilizes Lye Software's Lye Account System to offer an elevated Minecraft experience. 
 
 
 ## Lye Software wants its products to be accessible to all.
